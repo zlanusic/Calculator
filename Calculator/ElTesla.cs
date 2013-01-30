@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using System.Data.Linq;
 using System.Text;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.Design;
+using System.ComponentModel;
+//using System.ComponentModel.DataAnnotations;
+//using System.ComponentModel.Design;
 using System.Drawing;
 using System.Windows.Forms;
 
