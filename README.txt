@@ -1,3 +1,3 @@
 
-Diplomski rad - MVP Supervising Controller  
+Diplomski rad - MVP Supervising Controller variant  
  
