@@ -1,0 +1,9 @@
+c:\dev\Home.Bills.MVP\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+c:\dev\Home.Bills.MVP\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+c:\dev\Home.Bills.MVP\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+c:\dev\Home.Bills.MVP\DataAccessLayer\bin\Debug\BusinessLogicLayer.dll
+c:\dev\Home.Bills.MVP\DataAccessLayer\bin\Debug\PresentationLogicLayer-MVP.dll
+c:\dev\Home.Bills.MVP\DataAccessLayer\bin\Debug\BusinessLogicLayer.pdb
+c:\dev\Home.Bills.MVP\DataAccessLayer\bin\Debug\PresentationLogicLayer-MVP.pdb
+c:\dev\Home.Bills.MVP\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+c:\dev\Home.Bills.MVP\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

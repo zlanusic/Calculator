@@ -1,0 +1,6 @@
+c:\dev\Home.Bills.MVP\WindowsForms\bin\Debug\WindowsForms.exe
+c:\dev\Home.Bills.MVP\WindowsForms\bin\Debug\WindowsForms.pdb
+c:\dev\Home.Bills.MVP\WindowsForms\obj\x86\Debug\WindowsForms.Properties.Resources.resources
+c:\dev\Home.Bills.MVP\WindowsForms\obj\x86\Debug\Presentation-View.csproj.GenerateResource.Cache
+c:\dev\Home.Bills.MVP\WindowsForms\obj\x86\Debug\WindowsForms.exe
+c:\dev\Home.Bills.MVP\WindowsForms\obj\x86\Debug\WindowsForms.pdb

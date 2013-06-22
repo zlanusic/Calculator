@@ -1,0 +1,4 @@
+c:\dev\Home.Bills.MVP\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+c:\dev\Home.Bills.MVP\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+c:\dev\Home.Bills.MVP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+c:\dev\Home.Bills.MVP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

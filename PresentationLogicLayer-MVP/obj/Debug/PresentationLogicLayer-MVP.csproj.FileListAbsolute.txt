@@ -1,0 +1,7 @@
+c:\dev\Home.Bills.MVP\PresentationLogicLayer-MVP\bin\Debug\PresentationLogicLayer-MVP.dll
+c:\dev\Home.Bills.MVP\PresentationLogicLayer-MVP\bin\Debug\PresentationLogicLayer-MVP.pdb
+c:\dev\Home.Bills.MVP\PresentationLogicLayer-MVP\bin\Debug\BusinessLogicLayer.dll
+c:\dev\Home.Bills.MVP\PresentationLogicLayer-MVP\bin\Debug\BusinessLogicLayer.pdb
+c:\dev\Home.Bills.MVP\PresentationLogicLayer-MVP\obj\Debug\PresentationLogicLayer-MVP.csprojResolveAssemblyReference.cache
+c:\dev\Home.Bills.MVP\PresentationLogicLayer-MVP\obj\Debug\PresentationLogicLayer-MVP.dll
+c:\dev\Home.Bills.MVP\PresentationLogicLayer-MVP\obj\Debug\PresentationLogicLayer-MVP.pdb

@@ -1,0 +1,13 @@
+c:\dev\Home.Bills.MVP\WinUI-PresentationView\bin\Debug\WinUI-PresentationView.exe
+c:\dev\Home.Bills.MVP\WinUI-PresentationView\bin\Debug\WinUI-PresentationView.pdb
+c:\dev\Home.Bills.MVP\WinUI-PresentationView\bin\Debug\BusinessLogicLayer.dll
+c:\dev\Home.Bills.MVP\WinUI-PresentationView\bin\Debug\PresentationLogicLayer-MVP.dll
+c:\dev\Home.Bills.MVP\WinUI-PresentationView\bin\Debug\BusinessLogicLayer.pdb
+c:\dev\Home.Bills.MVP\WinUI-PresentationView\bin\Debug\PresentationLogicLayer-MVP.pdb
+c:\dev\Home.Bills.MVP\WinUI-PresentationView\obj\x86\Debug\WinUI-PresentationView.csprojResolveAssemblyReference.cache
+c:\dev\Home.Bills.MVP\WinUI-PresentationView\obj\x86\Debug\WinUI_PresentationView.Properties.Resources.resources
+c:\dev\Home.Bills.MVP\WinUI-PresentationView\obj\x86\Debug\WinUI_PresentationView.Views.MainView.resources
+c:\dev\Home.Bills.MVP\WinUI-PresentationView\obj\x86\Debug\WinUI-PresentationView.csproj.GenerateResource.Cache
+c:\dev\Home.Bills.MVP\WinUI-PresentationView\obj\x86\Debug\WinUI-PresentationView.exe
+c:\dev\Home.Bills.MVP\WinUI-PresentationView\obj\x86\Debug\WinUI-PresentationView.pdb
+c:\dev\Home.Bills.MVP\WinUI-PresentationView\obj\x86\Debug\WinUI_PresentationView.Views.LogonView.resources
