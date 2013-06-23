@@ -9,3 +9,15 @@ c:\dev\Home.Bills.MVP\WinUI-PresentationView\obj\x86\Debug\WinUI-PresentationVie
 c:\dev\Home.Bills.MVP\WinUI-PresentationView\obj\x86\Debug\WinUI-PresentationView.exe
 c:\dev\Home.Bills.MVP\WinUI-PresentationView\obj\x86\Debug\WinUI-PresentationView.pdb
 c:\dev\Home.Bills.MVP\WinUI-PresentationView\obj\x86\Debug\WinUI_PresentationView.Views.LogonView.resources
+C:\dev\DiplomskiRad\Home.Bills.MVP\WinUI-PresentationView\bin\Debug\WinUI-PresentationView.exe
+C:\dev\DiplomskiRad\Home.Bills.MVP\WinUI-PresentationView\bin\Debug\WinUI-PresentationView.pdb
+C:\dev\DiplomskiRad\Home.Bills.MVP\WinUI-PresentationView\bin\Debug\PresentationLogicLayer-MVP.dll
+C:\dev\DiplomskiRad\Home.Bills.MVP\WinUI-PresentationView\bin\Debug\PresentationLogicLayer-MVP.pdb
+C:\dev\DiplomskiRad\Home.Bills.MVP\WinUI-PresentationView\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dev\DiplomskiRad\Home.Bills.MVP\WinUI-PresentationView\obj\x86\Debug\WinUI_PresentationView.Properties.Resources.resources
+C:\dev\DiplomskiRad\Home.Bills.MVP\WinUI-PresentationView\obj\x86\Debug\WinUI_PresentationView.Views.LogonView.resources
+C:\dev\DiplomskiRad\Home.Bills.MVP\WinUI-PresentationView\obj\x86\Debug\WinUI_PresentationView.Views.MainView.resources
+C:\dev\DiplomskiRad\Home.Bills.MVP\WinUI-PresentationView\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\dev\DiplomskiRad\Home.Bills.MVP\WinUI-PresentationView\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\dev\DiplomskiRad\Home.Bills.MVP\WinUI-PresentationView\obj\x86\Debug\WinUI-PresentationView.exe
+C:\dev\DiplomskiRad\Home.Bills.MVP\WinUI-PresentationView\obj\x86\Debug\WinUI-PresentationView.pdb

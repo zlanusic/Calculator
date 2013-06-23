@@ -7,3 +7,6 @@ c:\dev\Home.Bills.MVP\DataAccessLayer\bin\Debug\BusinessLogicLayer.pdb
 c:\dev\Home.Bills.MVP\DataAccessLayer\bin\Debug\PresentationLogicLayer-MVP.pdb
 c:\dev\Home.Bills.MVP\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 c:\dev\Home.Bills.MVP\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\dev\DiplomskiRad\Home.Bills.MVP\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\DiplomskiRad\Home.Bills.MVP\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\dev\DiplomskiRad\Home.Bills.MVP\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

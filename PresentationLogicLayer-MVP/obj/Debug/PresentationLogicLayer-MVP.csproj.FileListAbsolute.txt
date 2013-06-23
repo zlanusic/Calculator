@@ -5,3 +5,5 @@ c:\dev\Home.Bills.MVP\PresentationLogicLayer-MVP\bin\Debug\BusinessLogicLayer.pd
 c:\dev\Home.Bills.MVP\PresentationLogicLayer-MVP\obj\Debug\PresentationLogicLayer-MVP.csprojResolveAssemblyReference.cache
 c:\dev\Home.Bills.MVP\PresentationLogicLayer-MVP\obj\Debug\PresentationLogicLayer-MVP.dll
 c:\dev\Home.Bills.MVP\PresentationLogicLayer-MVP\obj\Debug\PresentationLogicLayer-MVP.pdb
+C:\dev\DiplomskiRad\Home.Bills.MVP\PresentationLogicLayer-MVP\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\DiplomskiRad\Home.Bills.MVP\PresentationLogicLayer-MVP\obj\Debug\PresentationLogicLayer-MVP.dll
