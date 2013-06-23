@@ -86,10 +86,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BusinessLogicLayer\BusinessLogicLayer.csproj">
-      <Project>{FBC3D717-6D88-4EA9-BEE6-73C3C66CF102}</Project>
-      <Name>BusinessLogicLayer</Name>
-    </ProjectReference>
     <ProjectReference Include="..\PresentationLogicLayer-MVP\PresentationLogicLayer-MVP.csproj">
       <Project>{38C45BC6-432E-4223-B61A-8447078B3889}</Project>
       <Name>PresentationLogicLayer-MVP</Name>

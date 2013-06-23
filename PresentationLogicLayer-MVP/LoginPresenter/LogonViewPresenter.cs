@@ -7,25 +7,41 @@ using DataAccessLayer.Services;
 
 namespace PresentationLogicLayer_MVP.LoginPresenter
 {
+    /// <summary>
+    /// Presenter implementira business logic, tj. logiranje korisnika!! 
+    /// </summary>
     public class LogonViewPresenter
     {
-        private readonly ILogonView _mloginView;
+        /// <summary>
+        /// Kreiramo private field ILogonView interface-a
+        /// </summary>
+        private readonly ILogonView _mlogonView;
 
-        //konstruktor
-        public LogonViewPresenter(ILogonView loginView)
+        /// <summary>
+        /// Overload konstruktora za primanje ILogonView interface-a
+        /// Inicijalizira novu instancu LogonViewPresenter klase
+        /// </summary>
+        /// <param name="logonView"></param>
+        public LogonViewPresenter(ILogonView logonView)
         {
             // --registriramo view
-            this._mloginView = loginView;
+            this._mlogonView = logonView;
+
             //osluskujemo view login event 
-            this._mloginView.LoginEvent += new EventHandler(_mloginView_LoginEvent);
+            this._mlogonView.LoginEvent += new EventHandler(_mloginView_LoginEvent);
         }
 
-        void _mloginView_LoginEvent(object sender, EventArgs e)
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void _mloginView_LoginEvent(object sender, EventArgs e)
         {
-            var userName = _mloginView.UserName;
-            var userPwd = _mloginView.UserPwd;
+            var userName = _mlogonView.UserName;
+            var userPwd = _mlogonView.UserPwd;
 
-            LogonService logonService = new LogonService(_mloginView);
+            LogonService logonService = new LogonService(_mlogonView);
             logonService.Logon(userName, userPwd);
 
         }

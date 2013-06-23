@@ -140,6 +140,7 @@
             this.mbtnAbort.TabIndex = 5;
             this.mbtnAbort.Text = "Odustani";
             this.mbtnAbort.UseVisualStyleBackColor = true;
+            this.mbtnAbort.Click += new System.EventHandler(this.mbtnAbort_Click);
             // 
             // mSatusStripNotification
             // 
@@ -162,7 +163,7 @@
             this.mTsslNotification.Name = "mTsslNotification";
             this.mTsslNotification.Size = new System.Drawing.Size(0, 17);
             // 
-            // LoginView
+            // LogonView
             // 
             this.AcceptButton = this.mbtnOK;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -174,7 +175,7 @@
             this.HelpButton = true;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
-            this.Name = "LoginView";
+            this.Name = "LogonView";
             this.Padding = new System.Windows.Forms.Padding(15);
             this.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.ShowIcon = false;

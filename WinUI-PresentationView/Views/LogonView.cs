@@ -25,7 +25,9 @@ namespace WinUI_PresentationView.Views
             _loginViewPresenter = new LogonViewPresenter(this);
         }
 
-
+        /// <summary>
+        /// Implementacija property-a iz ILogon interface-a
+        /// </summary>
         #region ILoginView Properties
 
         public event EventHandler LoginEvent;
@@ -53,6 +55,11 @@ namespace WinUI_PresentationView.Views
 
         #endregion
 
+        /// <summary>
+        /// Event na klik button-a za prijavu
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void mbtnOK_Click(object sender, EventArgs e)
         {
             //okini event kada user klikne na button za prijavu
@@ -61,6 +68,20 @@ namespace WinUI_PresentationView.Views
                 LoginEvent(this, EventArgs.Empty);
             }
 
+        }
+
+        /// <summary>
+        /// Event na klik button-a za odustani
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void mbtnAbort_Click(object sender, EventArgs e)
+        {
+            // --okini event kada user klikne na button odustani
+            if (CloseEvent != null)
+            {
+                CloseEvent(this, EventArgs.Empty);
+            }
         }
     }
 }
