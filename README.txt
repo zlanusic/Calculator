@@ -1,3 +1,4 @@
 
-Diplomski rad - MVP Supervising Controller variant  
+Diplomski rad - MVP (Model-View-Presenter) 
+Supervising Controller variant  
  

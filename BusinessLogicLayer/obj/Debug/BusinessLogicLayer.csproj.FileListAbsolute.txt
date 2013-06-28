@@ -2,3 +2,8 @@ c:\dev\Home.Bills.MVP\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
 c:\dev\Home.Bills.MVP\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
 c:\dev\Home.Bills.MVP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
 c:\dev\Home.Bills.MVP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\dev\DiplomskiRad\Home.Bills.MVP\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\dev\DiplomskiRad\Home.Bills.MVP\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\dev\DiplomskiRad\Home.Bills.MVP\BusinessLogicLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\DiplomskiRad\Home.Bills.MVP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\dev\DiplomskiRad\Home.Bills.MVP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
